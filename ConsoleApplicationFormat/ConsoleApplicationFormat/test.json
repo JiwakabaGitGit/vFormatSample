@@ -1,0 +1,13 @@
+{
+  "fid": "FRAME00001",
+  "fx": 30,
+  "fy": 40,
+  "isStudent": false,
+  "courses": ["Math", "Science", "History"],
+  "address": {
+    "street": "123 Main St",
+    "city": "Springfield",
+    "state": "IL",
+    "postalCode": "62701"
+  }
+}
